@@ -9,3 +9,39 @@
 ##  About
 I am learning Git
 ## Goals
+- Learn Git commit workflow >> text.md
+
+
+
+
+
+
+
+
+
+
+echo - Learn Git commit workflow
+- Learn Git commit workflow >> text.md
+
+
+
+
+
+
+
+
+
+
+echo - Learn Git commit workflow
+- Learn Git commit workflow >> text.md
+
+
+
+
+
+
+
+
+
+
+echo - Learn Git commit workflow
