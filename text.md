@@ -70,3 +70,4 @@ echo - Learn Git commit workflow
 - Learn Git commit workflow
 - Learn Git commit workflow
 - Understand staging vs commiting
+- Practice writing clear commit messages
