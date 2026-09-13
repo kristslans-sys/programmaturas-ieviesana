@@ -87,3 +87,5 @@ echo - Learn Git commit workflow
 - **Football database** - website where you can see football data built with html/css
 
 ## FAQ
+
+## Hobbies
