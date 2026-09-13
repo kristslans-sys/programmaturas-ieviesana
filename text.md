@@ -91,3 +91,4 @@ echo - Learn Git commit workflow
 ## Hobbies
 - **Spending time with friends**
 - **Watching sports**
+- **Playing any sport or being active**
