@@ -75,3 +75,4 @@ echo - Learn Git commit workflow
 
 ## Skills
 - HTML and CSS
+- Python
