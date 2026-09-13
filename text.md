@@ -45,3 +45,27 @@ echo - Learn Git commit workflow
 
 
 echo - Learn Git commit workflow
+- Learn Git commit workflow >> text.md
+
+
+
+
+
+
+
+
+
+
+echo - Learn Git commit workflow >> text.md
+
+
+
+
+
+
+
+
+
+echo - Learn Git commit workflow
+- Learn Git commit workflow
+- Learn Git commit workflow
