@@ -8,3 +8,4 @@
 
 ##  About
 I am learning Git
+## Goals
