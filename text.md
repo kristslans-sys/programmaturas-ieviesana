@@ -83,3 +83,4 @@ echo - Learn Git commit workflow
 - Eclipse IDE
 
 ## Projects
+- **Desktop Quiz app** - a simple quiz app that built with java/html/css
