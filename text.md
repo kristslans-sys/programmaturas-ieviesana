@@ -92,3 +92,5 @@ echo - Learn Git commit workflow
 - **Spending time with friends**
 - **Watching sports**
 - **Playing any sport or being active**
+
+## Lessons Learned
