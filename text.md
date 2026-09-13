@@ -94,3 +94,4 @@ echo - Learn Git commit workflow
 - **Playing any sport or being active**
 
 ## Lessons Learned
+- Write clear commit messages
