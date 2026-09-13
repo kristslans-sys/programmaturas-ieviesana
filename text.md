@@ -69,3 +69,4 @@ echo - Learn Git commit workflow >> text.md
 echo - Learn Git commit workflow
 - Learn Git commit workflow
 - Learn Git commit workflow
+- Understand staging vs commiting
