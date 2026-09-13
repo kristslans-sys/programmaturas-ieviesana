@@ -95,3 +95,4 @@ echo - Learn Git commit workflow
 
 ## Lessons Learned
 - Write clear commit messages
+- Stage changes before commiting
