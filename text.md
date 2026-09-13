@@ -89,3 +89,4 @@ echo - Learn Git commit workflow
 ## FAQ
 
 ## Hobbies
+- **Spending time with friends**
