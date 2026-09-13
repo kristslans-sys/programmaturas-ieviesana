@@ -77,3 +77,5 @@ echo - Learn Git commit workflow
 - HTML and CSS
 - Python
 - Java
+
+## My favorite tools
