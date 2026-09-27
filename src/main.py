@@ -1,5 +1,5 @@
-print("Hello!")
-print ("Version 2")
-print("another line")
+name =  input("Name: ")
+print("Hello {name}")
+
 
 
