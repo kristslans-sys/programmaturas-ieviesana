@@ -1,2 +1,4 @@
-print("Hello!"
+print("Hello!")
+print ("Version 2")
+
 
