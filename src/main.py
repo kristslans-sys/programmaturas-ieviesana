@@ -118,7 +118,6 @@ class TestTodoList(unittest.TestCase):
 
 if __name__ == "__main__":
     main()
-print("Hello from MAIN"
-print ("Hello from FEATURE")
+
 
 
